@@ -388,3 +388,7 @@ table a, #comments a{background-color:inherit;}
 .mainhead {color: orange;}
 .blockmain {color: lightblue;}
 .mainfooter {color: silver;}
+.bgded {background-image:url('images/demo/backgrounds/01.png');}
+.mainarticle{text-align: justify;}
+.nospacemain {display: none;}
+.bg2{background-image:url('images/demo/backgrounds/02.png');}
