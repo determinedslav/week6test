@@ -392,3 +392,7 @@ table a, #comments a{background-color:inherit;}
 .mainarticle{text-align: justify;}
 .nospacemain {display: none;}
 .bg2 {background-image:url('images/demo/backgrounds/02.png');}
+.sidebg1 {background-image:url('../images/demo/backgrounds/01.png');}
+.sidearticle {text-align: justify;font-family: Comic Sans MS;}
+.sidearticle2 {text-align: justify;font-family: Comic Sans MS;font-style: italic;font-weight:600;}
+.sidelist {background-color: silver;}
